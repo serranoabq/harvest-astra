@@ -11,7 +11,7 @@
  */
 define( 'CHILD_THEME_HARVEST_ASTRA_VERSION', '1.0.0' );
 
-require_once( get_stylesheet_directory_uri() . '/framework/framework.php' ); 
+require_once( get_stylesheet_directory() . '/framework/framework.php' );
 
 /**
  * Enqueue styles
